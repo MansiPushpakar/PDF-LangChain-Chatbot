@@ -2,6 +2,9 @@
 
 A Streamlit PDF question-answering app using LangChain, OpenAI embeddings/chat, and Astra DB vector storage.
 
+live demo - https://pdf-langchain-chatbot-5vtrcobjf3hlk2xogvvlnu.streamlit.app/
+github repo-https://github.com/MansiPushpakar/PDF-LangChain-Chatbot
+
 ## Features
 - Upload one or more text-based PDF files.
 - Extract PDF text and split it into overlapping chunks.
