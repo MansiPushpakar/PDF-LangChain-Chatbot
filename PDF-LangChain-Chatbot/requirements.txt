@@ -1,0 +1,6 @@
+streamlit>=1.36,<2
+pypdf>=4.2,<6
+langchain-core>=0.3,<2
+langchain-text-splitters>=0.3,<2
+langchain-openai>=0.2,<2
+langchain-astradb>=0.6,<2
